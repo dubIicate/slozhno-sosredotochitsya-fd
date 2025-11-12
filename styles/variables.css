@@ -1,7 +1,7 @@
 :root {
   --background-image: url(../images/cover-image-dark.png);
   --background-color: #000028;
-  --font-family: IBM Plex Mono, sans-serif;
+  --font-family: IBM Plex Mono, monospace;
   --font-color: #ff0070;
   --menu-font-hover: rgb(255, 0, 112, 0.4);
   --font-weight: 400;
