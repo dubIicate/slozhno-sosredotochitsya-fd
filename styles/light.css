@@ -10,11 +10,11 @@
   --decorated-color: #353430;
 }
 
-.theme-light.decorated-text {
+.theme-light .decorated-text {
   display: none;
 }
 
-.theme-light.decorated-text::before {
+.theme-light .decorated-text::before {
   display: none;
 }
 
